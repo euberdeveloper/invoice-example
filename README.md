@@ -1,4 +1,4 @@
-# invoice-example
+# [invoice-example](https://euber.dev/invoice-example/)
 A very simple HTML page to generate invoice that are printed from the Browser
 
 ## How was it made
